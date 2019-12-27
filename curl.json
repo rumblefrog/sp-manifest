@@ -1,0 +1,4 @@
+{
+    "curl": "https://raw.githubusercontent.com/JoinedSenses/SourceMod-IncludeLibrary/master/include/cURL.inc",
+    "curl_header": "https://raw.githubusercontent.com/JoinedSenses/SourceMod-IncludeLibrary/master/include/cURL_header.inc"
+}
