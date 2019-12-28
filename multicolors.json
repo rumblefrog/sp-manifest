@@ -1,0 +1,5 @@
+{
+    "multicolors": "https://raw.githubusercontent.com/JoinedSenses/SourceMod-IncludeLibrary/master/include/multicolors.inc",
+    "multicolors_morecolors": "https://raw.githubusercontent.com/JoinedSenses/SourceMod-IncludeLibrary/master/include/multicolors/morecolors.inc",
+    "multicolors_colors": "https://raw.githubusercontent.com/JoinedSenses/SourceMod-IncludeLibrary/master/include/multicolors/colors.inc"
+}

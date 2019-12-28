@@ -1,0 +1,9 @@
+{
+    "json": "https://raw.githubusercontent.com/clugg/sm-json/master/addons/sourcemod/scripting/include/json.inc",
+    "json_object": "https://github.com/clugg/sm-json/blob/master/addons/sourcemod/scripting/include/json/object.inc",
+    "json_definitions": "https://raw.githubusercontent.com/clugg/sm-json/master/addons/sourcemod/scripting/include/json/definitions.inc",
+    "json_array": "https://raw.githubusercontent.com/clugg/sm-json/master/addons/sourcemod/scripting/include/json/array.inc",
+    "json_helpers_decode": "https://raw.githubusercontent.com/clugg/sm-json/master/addons/sourcemod/scripting/include/json/helpers/decode.inc",
+    "json_helpers_encode": "https://raw.githubusercontent.com/clugg/sm-json/master/addons/sourcemod/scripting/include/json/helpers/encode.inc",
+    "json_helpers_string": "https://raw.githubusercontent.com/clugg/sm-json/master/addons/sourcemod/scripting/include/json/helpers/string.inc"
+}
