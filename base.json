@@ -47,7 +47,6 @@
     "files": "https://raw.githubusercontent.com/alliedmodders/sourcemod/master/plugins/include/files.inc",
     "lang": "https://raw.githubusercontent.com/alliedmodders/sourcemod/master/plugins/include/lang.inc",
     "banning": "https://raw.githubusercontent.com/alliedmodders/sourcemod/master/plugins/include/banning.inc",
-    "dhooks": "https://raw.githubusercontent.com/alliedmodders/sourcemod/master/plugins/include/dhooks.inc",
     "mapchooser": "https://raw.githubusercontent.com/alliedmodders/sourcemod/master/plugins/include/mapchooser.inc",
     "adt_trie": "https://raw.githubusercontent.com/alliedmodders/sourcemod/master/plugins/include/adt_trie.inc",
     "functions": "https://raw.githubusercontent.com/alliedmodders/sourcemod/master/plugins/include/functions.inc",
