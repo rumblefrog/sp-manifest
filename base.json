@@ -35,7 +35,6 @@
     "clients": "https://raw.githubusercontent.com/alliedmodders/sourcemod/master/plugins/include/clients.inc",
     "sorting": "https://raw.githubusercontent.com/alliedmodders/sourcemod/master/plugins/include/sorting.inc",
     "tf2_stocks": "https://raw.githubusercontent.com/alliedmodders/sourcemod/master/plugins/include/tf2_stocks.inc",
-    "version_auto": "https://raw.githubusercontent.com/alliedmodders/sourcemod/master/plugins/include/version_auto.inc",
     "sdktools_entoutput": "https://raw.githubusercontent.com/alliedmodders/sourcemod/master/plugins/include/sdktools_entoutput.inc",
     "sdktools_stocks": "https://raw.githubusercontent.com/alliedmodders/sourcemod/master/plugins/include/sdktools_stocks.inc",
     "sdktools_tempents_stocks": "https://raw.githubusercontent.com/alliedmodders/sourcemod/master/plugins/include/sdktools_tempents_stocks.inc",
