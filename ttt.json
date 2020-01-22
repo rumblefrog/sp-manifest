@@ -11,6 +11,5 @@
     "ttt_shop_discount": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_shop_discount.inc",
     "ttt_sql": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_sql.inc",
     "ttt_stock": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_stock.inc",
-    "ttt_taser": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_taser.inc",
-    "ttt_weapons": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_weapons.inc"
+    "ttt_taser": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_taser.inc"
 }
