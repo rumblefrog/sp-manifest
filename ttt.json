@@ -4,12 +4,13 @@
     "ttt_glow": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_glow.inc",
     "ttt_grabbermod": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_grabbermod.inc",
     "ttt_icon": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_icon.inc",
+    "ttt_inventory": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_inventory.inc",
     "ttt_knockout": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_knockout.inc",
     "ttt_overlay": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_overlay.inc",
     "ttt_playerhud": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_playerhud.inc",
     "ttt_shop": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_shop.inc",
-    "ttt_shop_discount": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_shop_discount.inc",
     "ttt_sql": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_sql.inc",
     "ttt_stock": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_stock.inc",
+    "ttt_talk_override": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_talk_override.inc",
     "ttt_taser": "https://raw.githubusercontent.com/Bara/TroubleinTerroristTown/master/addons/sourcemod/scripting/include/ttt_taser.inc"
 }
